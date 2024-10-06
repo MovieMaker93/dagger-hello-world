@@ -4,7 +4,9 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://alfonsofortunato.com/img/logo.png">
       <img src="https://alfonsofortunato.com/img/logo.png" height="90">
     </picture>
-    <h1 align="center">Note cli</h1>
+    <h1 align="center">
+     Dagger Hello World
+    </h1>
   </a>
 </p>
 <p align="center">
